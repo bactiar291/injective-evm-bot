@@ -1,0 +1,1 @@
+# injective-evm-bot
